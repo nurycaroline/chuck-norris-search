@@ -9,7 +9,14 @@
   },
   "keywords": [
     "react",
-    "javascript"
+    "boilerplate",
+    "js",
+    "javascript",
+    "firebase",
+    "pwa",
+    "babel",
+    "node",
+    "sass"
   ],
   "repository": {
     "type": "git",
@@ -18,7 +25,6 @@
   "bugs": {
     "url": "https://github.com/nurycaroline/chuck-norris-search/issues"
   },
-  "homepage": "https://github.com/nurycaroline/chuck-norris-search#readme",
   "author": "Nurielly Caroline Brizola",
   "license": "MIT",
   "devDependencies": {
@@ -71,7 +77,9 @@
   "dependencies": {
     "prop-types": "^15.7.2",
     "react": "^16.8.6",
-    "react-dom": "^16.8.6"
+    "react-dom": "^16.8.6",
+    "react-router": "^4.3.1",
+    "react-router-dom": "^4.3.1"
   },
   "resolutions": {
     "grpc": "^1.12.0"
