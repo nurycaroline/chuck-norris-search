@@ -1,7 +1,3 @@
----
-permalink: /index.html
----
-
 # chuck-norris-search
 
 ## To install
