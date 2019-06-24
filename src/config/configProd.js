@@ -1,5 +1,5 @@
 module.exports = {
   ROOT_URL: '',
-  TITLE: 'Chuuck-Search',
+  TITLE: 'Chuck-Search',
   LOGO: 'logo.png',
 };
