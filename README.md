@@ -6,7 +6,7 @@
 yarn 
 ```
 
-## To rum
+## To run
 
 ```
 yarn start
